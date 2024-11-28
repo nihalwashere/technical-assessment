@@ -56,6 +56,7 @@
 
 The project structure is inspired by `Ducks Architecture`. Heavily used this in my previous projects and has worked very well for us. The architecture is highly scalable for large scale applications, especially when we are implementing global state management solutions like Redux/Redux-Sagas. This architecture comes in very handy to have separation of concerns by segregrating the project into small containers on the basis of features/pages in the application.
 
+```
 ├── backend # Main source code folder for backend
 ├── src # Main source code folder for frontend
 ├──── api # api files for the project
@@ -67,6 +68,7 @@ The project structure is inspired by `Ducks Architecture`. Heavily used this in 
 ├──── routes # route configurations and app initialization
 ├──── styles # custom `.scss` stylesheets
 ├──── utils # utilities for the project
+```
 
 ## Known limitations
 
