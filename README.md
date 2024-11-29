@@ -74,6 +74,7 @@ The project structure is inspired by `Ducks Architecture`. Heavily used this in 
 
 - No nav bar on mobile break point
 - No support for email/password based sign in
+- No support for font-style `Roobert`
 
 ## Time spent
 
